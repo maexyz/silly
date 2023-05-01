@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    font-family: monospace;
+}
+.section{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 60%;
+    margin: 10rem auto 0 auto;
+}
+.section img{
+    height:100px;
+}
+.section h1{
+    margin: 0;
+    color: black;
+}
+.section p{
+    color: black;
+    margin-right: 15px;
+}
